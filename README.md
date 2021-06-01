@@ -7,5 +7,18 @@ With plug
 Plug 'darioisthebest/datheme'
 ```
 
+# Customization
+There is a darker background if you want
+```vim
+" To get darker background
+let g:datheme_bg="dark"
+
+" To get normal background
+let g:datheme_bg="normal"
+```
+
 # Screenshot
+### Normal
 ![screenshot](./screenshot.png)
+### Dark
+[screenshot_dark](./screenshot_dark.png)
