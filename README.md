@@ -21,4 +21,4 @@ let g:datheme_bg="normal"
 ### Normal
 ![screenshot](./screenshot.png)
 ### Dark
-[screenshot_dark](./screenshot_dark.png)
+![screenshot_dark](./screenshot_dark.png)
