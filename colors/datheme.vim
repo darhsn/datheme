@@ -18,8 +18,6 @@ if g:datheme_bg != "dark" && g:datheme_bg != "normal"
     echoerr "DaTheme: Invalid g:datheme_bg, possible values are normal or dark"
 endif
 
-let g:datheme_bg="dark"
-
 if g:datheme_bg == "dark"
     let g:datheme_bg="#1C1E1C"
 else
