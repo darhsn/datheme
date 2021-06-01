@@ -63,3 +63,10 @@ highlight PMenuSel guifg=#86F884 guibg=#3A483C gui=NONE
 highlight PMenu guifg=#ffffff guibg=#3A483C gui=NONE
 
 highlight Visual guifg=#ffffff guibg=#3A483C
+
+highlight FoldColumn guifg=#ffffff guibg=#272F29 gui=NONE
+highlight Conceal guifg=#ffffff guibg=#272F29 gui=NONE
+highlight CursorColumn guifg=#ffffff guibg=#272F29 gui=NONE
+highlight SignColumn guifg=#ffffff guibg=#272F29 gui=NONE
+
+highlight EndOfBuffer guifg=#6218DC guibg=#272F29 gui=NONE
