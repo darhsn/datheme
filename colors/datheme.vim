@@ -1,3 +1,4 @@
+" DaTheme by darioisthebest
 highlight clear
 
 if exists("syntax_on")
